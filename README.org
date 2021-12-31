@@ -16,10 +16,10 @@ an arc reads "no more than."
 Each line encodes a single block of numbers, separated by commas. For example,
 =cyc3.blocks= of the following contents:
 
-#+begin_quote
+#+begin_verbatim
 4
 1,5,6
 2,3,7
-#+end_quote
+#+end_verbatim
 
 encodes an instance of =[4] [1,5,6] [2,3,7]= (i.e., with three blocks).
